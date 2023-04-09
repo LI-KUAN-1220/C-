@@ -1,0 +1,12 @@
+﻿  test_4_9.cpp
+E:\code\C++\cplusplus\test_4_9\test_4_9\test_4_9.cpp(1,26): error C2143: 语法错误: 缺少“;”(在“++”的前面)
+E:\code\C++\cplusplus\test_4_9\test_4_9\test_4_9.cpp(1,26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\sal.h(2361,12): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+E:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\sal.h(2361,12): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+E:\code\C++\cplusplus\test_4_9\test_4_9\test_4_9.cpp(57,1): error C3872: “0x3002”: 此字符不允许在标识符中使用
+E:\code\C++\cplusplus\test_4_9\test_4_9\test_4_9.cpp(59,1): error C3872: “0x3002”: 此字符不允许在标识符中使用
+E:\code\C++\cplusplus\test_4_9\test_4_9\test_4_9.cpp(59,1): error C3872: “0x201c”: 此字符不允许在标识符中使用
+E:\code\C++\cplusplus\test_4_9\test_4_9\test_4_9.cpp(59,1): error C3872: “0x201d”: 此字符不允许在标识符中使用
+E:\code\C++\cplusplus\test_4_9\test_4_9\test_4_9.cpp(61,1): error C3872: “0x3002”: 此字符不允许在标识符中使用
+E:\code\C++\cplusplus\test_4_9\test_4_9\test_4_9.cpp(61,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\code\C++\cplusplus\test_4_9\test_4_9\test_4_9.cpp(59,1): error C2146: 语法错误: 缺少“;”(在标识符“接下来，程序使用while循环遍历文件中的每一行，并将其输出到屏幕上。之后，程序打开同一个文件以追加文本。它要求用户输入一些文本，并将其附加到文件末尾，直到用户输入“exit”。”的前面)
